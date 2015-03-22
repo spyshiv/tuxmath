@@ -1,1 +1,26 @@
-For now, see docs/README for this information.
+For now,you can also see doc/README for the information about tuxmath.
+Here is a guideline how to install tuxmath to your local machine having different type of operating system.
+
+How To install
+For Windows User:
+Go to the link and download windows installer(working for windows 2000,XP,Vista and all other new versions)
+
+https://alioth.debian.org/frs/download.php/file/3577/tuxmath-2.0.3-win32-installer.exe
+
+For Linux(Debian-based)/Ubuntu User:
+Open terminal and type the simple command
+sudo apt-get install tuxmath
+or
+sudo aptitide install tuxmath
+
+For RPM-based Linux User:
+visit http://software.opensuse.org/package/tuxmath  for full information
+
+For Mac User(OS X):
+Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.
+
+Alternatively, if you have MacPorts installed, the latest version of TuxMath can be installed by simply typing:
+
+sudo port install tuxmath
+
+It's a fun as well as learning game for kid to enhance technology in smarter way.
